@@ -1,0 +1,122 @@
+.homeCard{
+    height: 42vh;
+    width: 92vw;
+    
+}
+
+.linha{    
+    width: 50%;
+    height: 1vh;
+    box-shadow: 0px 15px #fec601;
+    border-radius: 50vw;
+}
+
+.homeCard div:nth-child(1){
+    /* background-color: #f6e6ff; */
+    /* box-shadow: -10px 0px #fec601; */
+    width: 60vw;
+    
+}
+
+.homeCard div:nth-child(2){
+    /* background-color: #fffbe6; */
+    width: 40vw;
+}
+
+.homeCard div:nth-child(1)>h1{
+    color: #4E4E4E;
+}
+
+.homeCard div:nth-child(1)>h2{
+    color: #6E2594;
+}
+
+.homeCard div:nth-child(1)>p{
+    color: #4E4E4E;
+    width: 40vw;
+    
+}
+
+.img1{
+    height: 100%;
+    width: 105%;
+    object-fit: contain;
+}
+
+.repCards{
+    width: 87vw;
+}
+
+.card{
+    width: 35%;
+    margin: 1em;
+}
+
+.sobre{
+    width: 100%;
+}
+
+.icones{
+    width: 35%;
+}
+
+.cidade{
+    width: 46vw;
+    margin-right: 1em;
+}
+
+.tipo{
+    width: 14vw;
+    margin-right: 1em;
+}
+
+.buscar{
+    width: 15vw;
+}
+
+.info{
+    width: 25vw;
+    margin: 1em;
+}
+
+.imagem{
+    width: 60%;
+    
+    object-fit: contain;
+}
+
+.img{
+    width: 80%;
+    height: auto;
+}
+
+.titulos{
+    color: #6E2594;
+}
+
+.texto{
+    color:#4E4E4E; 
+}
+
+.conteudo{
+    width: 75%;
+}
+
+.about{
+    box-shadow: 7px 7px 1px #fec601;
+    border-radius: 7px;
+}
+
+.searchBar{
+    width: 70vw;
+    margin: 2px;
+}
+
+.searchButton{
+    width: 10vw;
+    margin: 2px;
+}
+
+.full{
+    width: 100%;
+}

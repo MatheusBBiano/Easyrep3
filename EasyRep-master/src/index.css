@@ -1,0 +1,36 @@
+@import '~react-agenda/build/styles.css';
+@import '~react-datetime/css/react-datetime.css'; 
+
+body {
+  margin: 0;
+  font-family: 'Baloo Bhaijaan 2', cursive;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.baloo2{
+  font-family: 'Alex Brush', cursive;
+  font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+.baloobhaijaan{
+  font-family: 'Alex Brush', cursive;
+  font-family: 'Baloo Bhaijaan 2', cursive;
+}
+
+p{
+  font-size: 20pt;
+}
+
+h2{
+  font-size: 18pt;
+}
+
+h1{
+  line-height: 110%;
+}

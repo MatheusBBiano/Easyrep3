@@ -1,0 +1,26 @@
+.title{
+    /* color: #6E2594; */
+    font-weight: bolder;
+}
+
+.iconCard1{
+    color: #6E2594;
+}
+
+.iconCard2{
+    color: #FEC601;
+}
+
+.asciiIcons{
+    color: #FEC601;
+    font-size: 2.3em;
+}
+
+.cardInfo{
+    width: 30%;
+}
+
+.card{ 
+    width: 20vw;
+    height: fit-content;
+}

@@ -1,0 +1,14 @@
+.repProf2{
+    width: 21%;
+}
+
+.rooms{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+}
+.room{
+    width: 20%;
+    height: fit-content ;
+}

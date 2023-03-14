@@ -1,0 +1,19 @@
+.slideshow{
+    width: 45%;
+    height: 35vh;
+    margin: 2%;
+}
+
+.repProf{
+    width: 30%;
+}
+
+.repAbout{
+    width: 50%;
+    margin: 2%;
+}
+
+td{
+    padding: 2%;
+    width: 50%
+}

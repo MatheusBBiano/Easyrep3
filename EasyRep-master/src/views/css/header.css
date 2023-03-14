@@ -1,0 +1,28 @@
+.logo{
+    color: #6E2594;
+}
+
+.logo>span{
+    color: #FEC601;
+}
+
+.linhaVertical{
+    border-left: 1px solid #4E4E4E;
+    height: 70%;
+}
+
+.linhaHorizontal{
+    border-top: 1px solid #4E4E4E;
+    width: 85vw;
+}
+
+.buttonLogin{
+    width: 120px;
+    height: 90%;
+}
+
+
+
+.debug{
+    background-color: #6E2594;
+}
